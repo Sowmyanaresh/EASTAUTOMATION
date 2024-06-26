@@ -1,0 +1,13 @@
+Label,Value1
+Parameter,Hazard Ratio (HR)
+Distribution,Log-Normal
+Input Method,Mean and SD
+Mean,0.5
+Standard Deviation,2
+Clinically Meaningful Threshold,10
+OTHER ASSUMPTIONS,
+Control (Median Survival Time),30
+Dropout (Control),0.2
+Dropout (Treatment),0.6
+Enrollment Card Name,Enrollment Set 1
+Avg Enrollment Rate (per Month),14.057

@@ -1,0 +1,18 @@
+{
+    "projectID": 8227,
+    "projectSimulationID": 5112,
+    "modelCount": 8,
+    "currentCount": 0,
+    "currentPercentage": 0,
+    "resourceID": 188,
+    "estimatedTime": 84,
+    "isSimulationCompleted": false,
+    "isSimulationCanceled": true,
+    "isQueuedByResourceManager": true,
+    "errorCode": 0,
+    "warningCode": 0,
+    "isSimFailed": false,
+    "pendingPercentage": 0,
+    "pendingEstimateTime": 0,
+    "simStageID": 4
+}
